@@ -12,7 +12,10 @@ public class Base {
 		System.out.println("print product title");
 		System.out.println("print product price");
 		System.out.println("view");
-	
+		
+		
+		
+		System.out.println("after some process");
 		
 		
 	}
